@@ -2,123 +2,123 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Shom Mazumder</title>
-    <link>https://shommazumder.github.io/home/</link>
+    <link>http://smazumder.me/home/</link>
     <description>Recent content in Homes on Shom Mazumder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://shommazumder.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://smazumder.me/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://shommazumder.github.io/home/hero_carousel/</link>
+      <link>http://smazumder.me/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://shommazumder.github.io/home/hero_carousel/</guid>
+      <guid>http://smazumder.me/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://shommazumder.github.io/home/hero/</link>
+      <link>http://smazumder.me/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://shommazumder.github.io/home/hero/</guid>
+      <guid>http://smazumder.me/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://shommazumder.github.io/home/about/</link>
+      <link>http://smazumder.me/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://shommazumder.github.io/home/about/</guid>
+      <guid>http://smazumder.me/home/about/</guid>
       <description>About I am a Ph.D. Candidate in Government at Harvard University and a Stone Ph.D. Scholar in Inequality and Wealth Concentration at the Harvard Kennedy School. My dissertation seeks to understand how political institutions are shaped by and shape intergroup relations with an emphasis on the role of violence and repression throughout American history. Portions of this work are published in the American Journal of Political Science.
 My dissertation work fits into a larger research agenda that seeks to understand the role of contentious politics in the trajectory of race, ethnic, and class relations in the United States.</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://shommazumder.github.io/home/experience/</link>
+      <link>http://smazumder.me/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://shommazumder.github.io/home/experience/</guid>
+      <guid>http://smazumder.me/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://shommazumder.github.io/home/publications_selected/</link>
+      <link>http://smazumder.me/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://shommazumder.github.io/home/publications_selected/</guid>
+      <guid>http://smazumder.me/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working Papers</title>
-      <link>https://shommazumder.github.io/home/publications/</link>
+      <link>http://smazumder.me/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://shommazumder.github.io/home/publications/</guid>
+      <guid>http://smazumder.me/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working Papers</title>
-      <link>https://shommazumder.github.io/home/research/</link>
+      <link>http://smazumder.me/home/research/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://shommazumder.github.io/home/research/</guid>
+      <guid>http://smazumder.me/home/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://shommazumder.github.io/home/projects/</link>
+      <link>http://smazumder.me/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://shommazumder.github.io/home/projects/</guid>
+      <guid>http://smazumder.me/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Custom Section</title>
-      <link>https://shommazumder.github.io/home/custom/</link>
+      <link>http://smazumder.me/home/custom/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://shommazumder.github.io/home/custom/</guid>
+      <guid>http://smazumder.me/home/custom/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://shommazumder.github.io/home/teaching/</link>
+      <link>http://smazumder.me/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://shommazumder.github.io/home/teaching/</guid>
+      <guid>http://smazumder.me/home/teaching/</guid>
       <description>Teaching Experience  GOV 2000/STAT 186: Causal Inference (TA for Kosuke Imai, Fall 2018) GOV 97: Sophomore Tutorial: The Political Science of Great Issues (TA for Ryan Enos, Spring 2018) US-World 15: Race, Ethnicity, and Immigration: From Obama to Trump (TA for Jennifer Hochschild, Spring 2018) ETHRSON 44: The Theory and Practice of Republican Government (TA for Daniel Carpenter, Fall 2017)  Teaching Philosophy My teaching philosophy emphasizes asking big questions and using the best possible tools to answer them.</description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://shommazumder.github.io/home/tags/</link>
+      <link>http://smazumder.me/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://shommazumder.github.io/home/tags/</guid>
+      <guid>http://smazumder.me/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://shommazumder.github.io/home/contact/</link>
+      <link>http://smazumder.me/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://shommazumder.github.io/home/contact/</guid>
+      <guid>http://smazumder.me/home/contact/</guid>
       <description></description>
     </item>
     
