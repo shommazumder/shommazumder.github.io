@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>protests on Shom Mazumder</title>
-    <link>/tags/protests/</link>
+    <link>http://smazumder.me/tags/protests/</link>
     <description>Recent content in protests on Shom Mazumder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Mon, 01 Oct 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/protests/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://smazumder.me/tags/protests/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Persistent Effect of U.S. Civil Rights Protests on Political Attitudes</title>
-      <link>/publication/mazumder-2018-ajps/</link>
+      <link>http://smazumder.me/publication/mazumder-2018-ajps/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>/publication/mazumder-2018-ajps/</guid>
+      <guid>http://smazumder.me/publication/mazumder-2018-ajps/</guid>
       <description></description>
     </item>
     
