@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research Description on Shom Mazumder</title>
-    <link>http://smazumder.me/research/</link>
+    <link>/research/</link>
     <description>Recent content in Research Description on Shom Mazumder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://smazumder.me/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
