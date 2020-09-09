@@ -1,6 +1,35 @@
 [
   {
     "authors": [
+      "Vasiliki Fouka",
+      "Soumyajit Mazumder",
+      "Marco Tabellini"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1587340800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1587340800,
+    "objectID": "003b5652766ba067b6b09456cc658ab1",
+    "permalink": "http://smazumder.me/publication/fmt-2020-migration/",
+    "publishdate": "2020-04-20T00:00:00Z",
+    "relpermalink": "/publication/fmt-2020-migration/",
+    "section": "publication",
+    "summary": "How do social group boundaries evolve? Does the appearance of a new out-group change the in-group’s perceptions of other out-groups? We introduce a conceptual framework of contextdependent categorization, in which exposure to one minority leads to recategorization of other minorities when the former is perceived as more distant than the latter. We test this framework by studying how Mexican immigration to the US affected whites’ attitudes and behaviors towards African Americans. We combine survey and crime data with a differencein-differences design and an instrumental variables strategy. Consistent with the theory, Mexican immigration improves whites’ attitudes towards blacks, increases support for problack government policies and lowers anti-black hate crimes, while simultaneously increasing prejudice against Hispanics. Immigration of groups perceived as less distant than blacks does not have similar effects. Our findings imply that changes in the size of one group can affect the entire web of inter-group relations in diverse societies.",
+    "tags": [
+      "race and ethnic politics",
+      "immigration",
+      "sociology",
+      "economic history",
+      "migration"
+    ],
+    "title": "Changing In-Group Boundaries: The Effect of Immigration on Race Relations in the US",
+    "type": "publication"
+  },
+  {
+    "authors": [
       "Soumyajit Mazumder"
     ],
     "categories": null,
